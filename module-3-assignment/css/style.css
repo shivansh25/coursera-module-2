@@ -1,0 +1,47 @@
+#header-nav{
+	background-color: grey;
+	height: 40px;
+}
+.navbar-default .navbar-brand {
+	width: 300px;
+	clear:both;
+	text-transform: uppercase;
+	font-size: 40px;
+	font-weight: bold;
+	text-decoration-color: black;
+	color: black;
+}
+.navbar-default .navbar-brand:hover{
+	color: black;
+	border-color: black solid 1px;
+}
+#nav-list a{
+	text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#nav-list a:hover{
+	background-color: lightgrey;
+}
+#navlist li{
+	display: inline;
+	position: relative;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -45px;
+}
+h1{
+	position: relative;
+	display: block !important;
+	/*margin-top: 150px;*/
+}
+section{
+	height: 1000px;
+	background-color: lightgrey;
+	margin:20px 20px 30px 20px;
+}
+h1, h2{
+	text-align: center;
+	font-weight: bold;
+}
